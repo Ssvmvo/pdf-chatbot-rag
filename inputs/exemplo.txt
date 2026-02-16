@@ -1,0 +1,9 @@
+A Inteligência Artificial Generativa é uma área da IA focada na criação de novos conteúdos como textos, imagens e códigos.
+
+Modelos de linguagem utilizam embeddings para transformar textos em representações numéricas vetoriais.
+
+A técnica de RAG (Retrieval-Augmented Generation) combina busca vetorial com geração de texto para reduzir alucinações e melhorar a precisão das respostas.
+
+Embeddings permitem medir similaridade semântica entre textos diferentes.
+
+A busca vetorial é amplamente utilizada em sistemas modernos de recomendação e chatbots inteligentes.
